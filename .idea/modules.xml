@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Ashiq\New Projects\Multi Channel Tv App\workspace\multi-channel-tv\app\app.iml" filepath="E:\Ashiq\New Projects\Multi Channel Tv App\workspace\multi-channel-tv\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-channel-tv.iml" filepath="$PROJECT_DIR$/multi-channel-tv.iml" />
+      <module fileurl="file://E:\Ashiq\New Projects\Multi Channel Tv App\workspace\multi-channel-tv\multi-channel-tv.iml" filepath="E:\Ashiq\New Projects\Multi Channel Tv App\workspace\multi-channel-tv\multi-channel-tv.iml" />
+    </modules>
+  </component>
+</project>
